@@ -5,7 +5,7 @@
 - 📫Como chegar até mim: tiagobsb31@gmail.com
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/tiagobsb84">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobsb84&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobsb84&layout=compact&langs_count=7&theme=algolia"/>
 </div>
