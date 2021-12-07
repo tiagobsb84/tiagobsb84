@@ -1,7 +1,5 @@
 ### Olá! Eu sou Tiago Silva 👋
 
-- 🌱 Eu estou estudando Front End.
-
 - 📫Como chegar até mim: tiagobsb31@gmail.com
 
 <div align="center">
